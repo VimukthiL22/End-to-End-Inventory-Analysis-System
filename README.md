@@ -29,7 +29,7 @@ Demand and Supply Gaps: Granular line analysis captured a clear drop-off in supp
 
 High-Velocity Strain: High-velocity stock-out items (such as "Ethernet Cable 10ft" and "Laptop Stand") are unevenly concentrated, creating outsized operational pressure on the Colombo and Jaffna storage centers compared to Kandy.
 
-###🚀 Future Developments
+##🚀 Future Developments
 Machine Learning Predictive Forecasting: Integrate a Python or Azure ML extension script into Power BI to predict demand spikes and automatically adjust safety stock margins.
 
 Automated Write-Back Alerts: Develop an automated workflow using Power Automate to text or email specific suppliers the exact moment a product's current stock triggers a Low Stock status.
